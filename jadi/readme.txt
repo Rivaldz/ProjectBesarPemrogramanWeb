@@ -1,6 +1,3 @@
-Contact Us
-
-email	: andihatmoko@gmail.com
-phone	: 0857 1405 7686
-
-web	: www.rajaputramedia.com
+Nama : Muhammad Rivaldo Setyo Purnomo 
+Kelas : TI-2B
+NO : 38
